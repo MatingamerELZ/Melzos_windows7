@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "system": "Windows 7 - M ELZ Edition",
+  "creator": "M ELZ",
+  "proCodes": [
+    {
+      "code": "MELZ-PRO-2024",
+      "type": "Pro",
+      "description": "Windows 7 Pro Account - Full Access",
+      "maxAccounts": 5,
+      "features": ["all_apps", "admin_rights", "dev_tools", "network_access"],
+      "expires": "2026-12-31"
+    },
+    {
+      "code": "WIN7-ELITE-X",
+      "type": "Elite",
+      "description": "Elite Account - Developer Edition",
+      "maxAccounts": 3,
+      "features": ["all_apps", "admin_rights", "dev_tools", "network_access", "system_files"],
+      "expires": "2027-06-30"
+    },
+    {
+      "code": "ADMIN-7777",
+      "type": "Admin",
+      "description": "Administrator Account",
+      "maxAccounts": 2,
+      "features": ["all_apps", "admin_rights", "dev_tools", "network_access", "system_files", "registry"],
+      "expires": "2028-01-01"
+    },
+    {
+      "code": "DEV-MATIN-01",
+      "type": "Developer",
+      "description": "Developer License - M ELZ Team",
+      "maxAccounts": 10,
+      "features": ["all_apps", "dev_tools", "code_editor", "compiler"],
+      "expires": "2027-12-31"
+    },
+    {
+      "code": "GUEST-FREE-1",
+      "type": "Standard",
+      "description": "Standard User Account",
+      "maxAccounts": 100,
+      "features": ["basic_apps", "media_player"],
+      "expires": "2026-12-31"
+    }
+  ]
+}
